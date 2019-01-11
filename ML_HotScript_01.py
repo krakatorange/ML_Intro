@@ -192,11 +192,11 @@ print(classification_report(Y_validation, predictions))
 ''' The final accuracy score confirms good results with the 150 vector point dataset
 	at a 93.333% confidence after using the SVM model.
 
-					precision   recall  f1-score   support
+			precision   recall   f1-score   support
 
-	Iris-setosa     1.00     	1.00    1.00       7
-	Iris-versicolor 1.00    	0.83    0.91       12
-	Iris-virginica  0.85        1.00    0.92       11
+	Iris-setosa     1.00        1.00     1.00       7
+	Iris-versicolor 1.00        0.83     0.91       12
+	Iris-virginica  0.85        1.00     0.92       11
 
-	weighted avg    0.94        0.93    0.93       30
+	weighted avg    0.94        0.93     0.93       30
 '''
