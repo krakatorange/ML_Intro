@@ -1,4 +1,4 @@
-# ML_Intro
+# ML Intro
 My formal introduction to Machine Learning via project example.
 
 The following machine learning exercise covers the 
@@ -13,7 +13,7 @@ following subjects:
 
 Files:
 
-	- ML_HotScript_01.py
+	- main.py
 	- iris.data (keep this in the same directory as the main file)
 	
 Python version:
