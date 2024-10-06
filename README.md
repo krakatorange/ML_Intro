@@ -1,4 +1,4 @@
-# ML Intro
+# Machine Learning Intro
 My formal introduction to Machine Learning via project example.
 
 The following machine learning exercise covers the 
